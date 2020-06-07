@@ -49,6 +49,13 @@
     <Compile Include="CurrentYield.cs" />
     <Compile Include="DilutedEarningsPerShare.cs" />
     <Compile Include="DividendPayoutRatio.cs" />
+    <Compile Include="DividendsPerShare.cs" />
+    <Compile Include="DividendYield.cs" />
+    <Compile Include="EarningsPerShare.cs" />
+    <Compile Include="EquityMultiplier.cs" />
+    <Compile Include="EstimatedEarnings.cs" />
+    <Compile Include="EstimatedEarningsWithProfitMargin.cs" />
+    <Compile Include="GeometricMeanReturn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
