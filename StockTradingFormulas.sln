@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorporateFormula", "Corpora
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockBonds", "StockBonds\StockBonds.csproj", "{E92D0716-C48A-4262-A722-2050BDDDE646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialFormulas", "FinancialFormulas\FinancialFormulas.csproj", "{DEF2F491-CF01-4E32-A06F-C4660DA5B45B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialMarketFormulas", "FinancialFormulas\FinancialMarketFormulas.csproj", "{DEF2F491-CF01-4E32-A06F-C4660DA5B45B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
