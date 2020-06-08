@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApproximatelyYieldToMaturity.cs" />
     <Compile Include="BidAskSpread.cs" />
     <Compile Include="BondEquivalentYield.cs" />
     <Compile Include="BookValuePerShare.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="EstimatedEarnings.cs" />
     <Compile Include="EstimatedEarningsWithProfitMargin.cs" />
     <Compile Include="GeometricMeanReturn.cs" />
+    <Compile Include="GrowthRate.cs" />
     <Compile Include="HoldingPeriodReturn.cs" />
     <Compile Include="NetAssetValue.cs" />
     <Compile Include="PreferredStockValue.cs" />
@@ -63,6 +65,16 @@
     <Compile Include="PriceToEarningsRatio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RateOfReturn.cs" />
+    <Compile Include="RequiredRateOfReturn.cs" />
+    <Compile Include="RiskPremium.cs" />
+    <Compile Include="StockPresentValuesWithZaroGrowth.cs" />
+    <Compile Include="StockPresentValueWithConstantGrowth.cs" />
+    <Compile Include="TaxEquivalentYield.cs" />
+    <Compile Include="TotalStockReturnCash.cs" />
+    <Compile Include="TotalStockReturnFromYields.cs" />
+    <Compile Include="TotalStockReturnPercentage.cs" />
+    <Compile Include="ZeroCouponBondValue.cs" />
+    <Compile Include="ZeroCouponBondYield.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
