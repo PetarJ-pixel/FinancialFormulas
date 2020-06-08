@@ -56,7 +56,13 @@
     <Compile Include="EstimatedEarnings.cs" />
     <Compile Include="EstimatedEarningsWithProfitMargin.cs" />
     <Compile Include="GeometricMeanReturn.cs" />
+    <Compile Include="HoldingPeriodReturn.cs" />
+    <Compile Include="NetAssetValue.cs" />
+    <Compile Include="PreferredStockValue.cs" />
+    <Compile Include="PriceToBookValueRatio.cs" />
+    <Compile Include="PriceToEarningsRatio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RateOfReturn.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
