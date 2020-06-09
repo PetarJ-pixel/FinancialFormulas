@@ -45,13 +45,20 @@
     <Compile Include="AssetTurnover.cs" />
     <Compile Include="AverageCollectionPeriod.cs" />
     <Compile Include="CashConversionCycle.cs" />
+    <Compile Include="Earnings.cs" />
+    <Compile Include="Equity.cs" />
+    <Compile Include="GrossProfit.cs" />
     <Compile Include="InventoryConversionPeriod.cs" />
     <Compile Include="InventoryConversionRatio.cs" />
     <Compile Include="InventoryTurnover.cs" />
+    <Compile Include="Liabilities.cs" />
+    <Compile Include="NetProfit.cs" />
+    <Compile Include="OperatingProfit.cs" />
     <Compile Include="PayablesConversionPeriod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReceivablesConversionPeriod.cs" />
     <Compile Include="ReceivablesTurnoverRatio.cs" />
+    <Compile Include="SalesRevenue.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
